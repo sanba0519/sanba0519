@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋  [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/sanba_heartfeltwords) ![VisualStudioCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg) ![win10](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows102.svg) ![c](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg) ![python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
 
-<!--
-**sanba0519/sanba0519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanba0519)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+***
+### 🛠 Tech Stack & Tools
+* **Languages:** `C++` ⚙️ | `Python` 🐍
+* **Environment:** `Windows 10` 🪟 | `VS Code` 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Goal
+I am an aspiring developer 💻 aiming to become an active contributor to the open-source community. My goal is to grow my skills and help improve projects through meaningful PRs! 🌍✨
+
+### 🔍 Currently working on...
+* 🛠 Exploring **Android Kernel** and **RKSU** modularity.
+* 📖 Learning more about **System-level scripting**.
+
+### Welcome to follow my channel❤️
