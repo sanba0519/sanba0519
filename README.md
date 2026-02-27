@@ -1,7 +1,7 @@
 ## Hi there 👋 
 [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/sanba_heartfeltwords) ![VisualStudioCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg) ![win10](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows102.svg) ![c](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg) ![python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
 
-![Stats](./profile/stats.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanba0519&hide=contribs,prs)
 
 ***
 ### 🛠 Tech Stack & Tools
