@@ -6,7 +6,7 @@
 ***
 ### 🛠 Tech Stack & Tools
 * **Languages:** `C++` ⚙️ | `Python` 🐍
-* **Environment:** `Windows 10`  | `VS Code` 💻
+* **Environment:** `Windows 11`  | `VS Code` 💻
 
 ---
 
