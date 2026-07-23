@@ -1,20 +1,44 @@
-## Hi there 👋 
-[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/sanba_heartfeltwords) ![VisualStudioCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg) ![win10](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows102.svg) ![c](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg) ![python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
+# 👋 Hi there! I'm Lornyx
 
-![Stats](./profile/stats.svg)
+> *An aspiring developer passionate about open-source and low-level development.*
 
-***
-### 🛠 Tech Stack & Tools
-* **Languages:** `C++` ⚙️ | `Python` 🐍
-* **Environment:** `Windows 11`  | `VS Code` 💻
+<!-- Badges Section -->
+<p align="left">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows112.svg" alt="Windows">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg" alt="Ubuntu">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg" alt="C++">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" alt="Python">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VS Code">
+    <a href="https://t.me/sanba_heartfeltwords"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram"></a>
+</p>
 
 ---
 
-### 🚀 Goal
-I am an aspiring developer 💻 aiming to become an active contributor to the open-source community. My goal is to grow my skills and help improve projects through meaningful PRs! 🌍✨
+### 👤 About Me
+* 🏷️ **Name:** Call me **`Lornyx`** / **`sanba`** / **`旧笆痕Lornyx`**
+* 🎯 **Goal:** Growing my skills, exploring low-level mechanics, and actively contributing meaningful PRs to the open-source community! 🌍✨
 
-### 🔍 Currently working on...
-* 🛠 Exploring **Android Kernel** and **RKSU** modularity.
-* 📖 Learning more about **System-level scripting**.
+---
 
-### Welcome to follow my channel❤️
+### 🔍 Currently Working On...
+* 🛠️ Exploring **Android Kernel** & **C++** modularity
+* 📖 Learning system-level scripting & kernel-space customization
+
+---
+
+### 🛠️ Tech Stack & Tools
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | `C++` ⚙️ • `Python` 🐍 |
+| **Environment** | `Windows 11` 🪟 • `WSL-Ubuntu` • `VS Code` 💻 |
+
+---
+
+### 📊 GitHub Stats
+![Stats](./profile/stats.svg)
+
+---
+
+### 📫 Connect with Me
+Welcome to follow my Telegram channel! ❤️  
+👉 [**笆の碎碎念**](https://t.me/sanba_heartfeltwords)
