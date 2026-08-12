@@ -9,7 +9,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg" alt="C++">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" alt="Python">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VS Code">
-    <a href="https://t.me/sanba_heartfeltwords"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram"></a>
+
 </p>
 
 ---
